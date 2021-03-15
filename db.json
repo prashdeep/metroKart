@@ -1,0 +1,20 @@
+{
+    "products":[
+    {
+        "id": 1,
+        "name": "IPad",
+        "price": 29990,
+        "rating": 4.889,
+        "launch_date": "2021-10-10",
+        "desc": "The new iPad combines tremendous capability with unmatched ease of use and versatility."
+    },
+    {
+        "id": 2,
+        "name": "MacBook-Pro",
+        "price": 215999,
+        "rating": 4.266,
+        "launch_date": "2020-05-03",
+        "desc": "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief."
+    }
+  ]
+}
